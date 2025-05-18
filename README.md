@@ -79,4 +79,4 @@ ingrese monto a convertir
 100
 Conversion[base_code=USD, target_code=EUR, conversion_rate=0.914]
 su monto convertido es: 91.4
-![imagen de funcionamiento del programa](URL_DE_LA_IMAGEN)
+![imagen de funcionamiento del programa](https://github.com/SantiagoPerezKay/conversor_de_monedas_curso_one_oracle/blob/main/programa.jpg)
