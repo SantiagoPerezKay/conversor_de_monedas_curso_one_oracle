@@ -54,7 +54,7 @@ API_KEY=tu_api_key_de_exchangerate
         <version>5.2.2</version>
     </dependency>
 </dependencies>
-
+```
 
 ▶️ Cómo ejecutar
 Compilá y ejecutá el programa con tu IDE o desde consola:
@@ -79,4 +79,4 @@ ingrese monto a convertir
 100
 Conversion[base_code=USD, target_code=EUR, conversion_rate=0.914]
 su monto convertido es: 91.4
-![imagen de funcionamiento del programa]((https://raw.githubusercontent.com/SantiagoPerezKay/conversor_de_monedas_curso_one_oracle/main/programa.jpg)
+![imagen de funcionamiento del programa](https://raw.githubusercontent.com/SantiagoPerezKay/conversor_de_monedas_curso_one_oracle/refs/heads/main/programa.jpg)
